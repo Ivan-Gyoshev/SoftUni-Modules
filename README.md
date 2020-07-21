@@ -1,2 +1,3 @@
-# SoftUni-Education U+1F4BB
+# SoftUni-Education
+
 Exercises and Exams
