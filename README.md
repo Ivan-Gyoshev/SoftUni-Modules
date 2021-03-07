@@ -1,3 +1,3 @@
-# SoftUni-Education
+# SoftUni-Exercises
 
-Exercises and Exams
+Homeworks/Exams 
